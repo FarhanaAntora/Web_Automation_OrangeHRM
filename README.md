@@ -18,25 +18,20 @@ Make sure the following conditions are satisfied before starting:
 2.  Set up an automation testing framework such as Selenium.
 3.  Install JDK Version 11 or later.
 4.  Install an Integrated Development Environment (IDE) such as Intelij or Eclipse.
-
-## Maven Project
-To manage dependencies and build processes smoothly, create a Maven project and implement automation.
-
-Steps to create Maven Project:
-1. Download and install Maven from the Apache Maven website (https://maven.apache.org/download.cgi).
-2. Create a new Maven project.
-3. Add necessary dependencies to the project's 'pom.xml' file.
+5. Download and install Maven.
 
 
 ## Getting Started
-1. Clone the repository to a loacl machine using following command:
+1. Clone this repository
 
 
    `git clone https://github.com/FarhanaAntora/Web_Automation_OrangeHRM`
 
-2. Set up the automation environment.
-3. Write or modify test script and customize test data if needed.
-4. Excecute the test script using TestNG
+2. Import the project in the IDE like InteliJ IDEA, Eclipse
+3. Add necessary dependencies
+4. Write or modify test script and customize test data if needed
+5. Excecute the test script using TestNG
+
 
 
 ## Extent Report
