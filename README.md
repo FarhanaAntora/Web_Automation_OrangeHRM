@@ -17,7 +17,7 @@ Make sure the following conditions are satisfied before starting:
 1.  Check that the system is running a compatible web browser.
 2.  Set up an automation testing framework such as Selenium.
 3.  Install JDK Version 11 or later.
-4.  Instal an Integrated Development Environment (IDE) such as Intelij or Eclipse.
+4.  Install an Integrated Development Environment (IDE) such as Intelij or Eclipse.
 
 ## Maven Project
 To manage dependencies and build processes smoothly, create a Maven project and implement automation.
